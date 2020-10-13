@@ -7,5 +7,5 @@
 - 💬 Ask me about Machine Learning,Deep Learning,Computer Vision, well I would never deny to any social help as well.
 - 📫 How to reach me: DM me on my Instagram or LinkedIn handle.
 - 😄 Pronouns: Resiliant, Punctual and Motivated.
-- ⚡ Fun fact: I am a huge freak or maybe you can say a POTTERHEAD. I am a Gryffindor, which  are you?
--->
+- ⚡ Fun fact: I am a huge freak or maybe you can say a POTTERHEAD. I am a Gryffindor, who do you belong?
+
