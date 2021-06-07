@@ -10,5 +10,8 @@
 - 😄 Pronouns: Resiliant, Punctual and Motivated.
 - ⚡ Fun fact: I am a huge freak or maybe you can say a POTTERHEAD. I am a Gryffindor, who do you belong?
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yukta30&theme=dark)](https://git.io/streak-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yukta30)](https://github.com/Yukta30/github-readme-stats)
 
