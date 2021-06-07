@@ -14,7 +14,6 @@
 
 [![Yukta's github activity graph](https://activity-graph.herokuapp.com/graph?username=Yukta30&theme=react-dark)](https://github.com/Yukta30/github-readme-activity-graph)
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 
 
