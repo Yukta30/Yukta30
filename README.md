@@ -1,5 +1,6 @@
 ### Hi there I am Yukta 👋
 ![](https://img.shields.io/badge/MOOD-FOCUSED-informational?style=flat&logo=&logoColor=white&color=2bbc8a)  ![image title](https://Yukta30.com/counter.svg)
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
 
 - 🔭 I’m currently working on projects related to Machine Learning and Deep Learning that would bring a change.
 - 🌱 I’m currently learning Django and Angular to get some hands on Web Developement.
