@@ -1,6 +1,5 @@
 ### Hi there I am Yukta 👋
 ![](https://img.shields.io/badge/MOOD-FOCUSED-informational?style=flat&logo=&logoColor=white&color=2bbc8a)    ![](https://camo.githubusercontent.com/f1059f8ad6f35ba5ad47d1f745939edf206e2c228036c6cbce124678abdd2d01/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d536d6565744d6568746126636f6c6f723d626c756576696f6c6574)
-![](https://camo.githubusercontent.com/d0833a475202d51c8b26bebb54961c31d4ed77133d68da32833b8bd1e04c5700/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d506f757368616c693032303226636f6c6f723d626c756576696f6c6574)
 
 - 🔭 I’m currently working on projects related to Machine Learning and Deep Learning that would bring a change.
 - 🌱 I’m currently learning Django and Angular to get some hands on Web Developement.
