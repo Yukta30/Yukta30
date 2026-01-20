@@ -20,13 +20,21 @@
 
 
 
-"- 📄 Pronouns:                       "She/Her" <br>
-"- 🔭 I’m currently working on":      "projects related to Machine Learning and Deep Learning that would bring a change.",<br>
-"- 🌱 I’m currently learning":        "Django and Angular to get some hands on Web Developement.",<br>
-"- 👯 I’m looking to collaborate on": "Open Source Organization to build models which can be a great contribution to the society.",<br>
-"- 🤔 I’m looking for help with":     "Data Structures and Algorithm",<br>
-"- 💬 Ask me about":                  "Machine Learning,Deep Learning,Computer Vision, well I would never deny to any social help as well.",<br>
-"- 📫 How to reach me:":              "DM me on my Instagram or LinkedIn handle".<br>
+👩‍💻 Pronouns: She/Her
+
+🎓 I’m a Computer Science graduate student at San José State University (GPA: 3.6) with a strong foundation in Data Engineering, Machine Learning, and Distributed Systems, backed by industry experience at Hewlett Packard Enterprise (Aruba Networking) and TATA Steel.<br>
+
+🔭 I’ve worked on large-scale batch and real-time data platforms, building reliable pipelines using Spark, Kafka, Flink, Delta Lake, and AWS, and recently explored GenAI systems (RAG, evaluation pipelines) to improve trust and reliability in production workflows.<br>
+
+🌱 I’m currently deepening my expertise in full-stack development (Django) and modern system design, while continuously sharpening my Data Structures & Algorithms skills for scalable, high-performance systems.<br>
+
+👯 I’m eager to collaborate with open-source communities and impact-driven teams, especially on projects involving data platforms, ML systems, observability, and applied AI for social good.<br>
+
+🤔 I’m always open to discussions and mentorship around DSA, system design, data engineering best practices, and ML in production.<br>
+
+💬 Ask me about Machine Learning, Deep Learning, Computer Vision, Real-Time Data Systems, or anything related to building reliable data products—and I’m always happy to help where I can.<br>
+
+📫 Let’s connect: Reach out via LinkedIn or GitHub, or feel free to DM me.<br>
 	
 
 
